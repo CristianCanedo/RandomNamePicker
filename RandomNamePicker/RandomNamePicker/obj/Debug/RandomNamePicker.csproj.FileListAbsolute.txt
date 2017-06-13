@@ -1,0 +1,14 @@
+c:\users\rawr\documents\visual studio 2017\Projects\RandomNamePicker\RandomNamePicker\bin\Debug\RandomNamePicker.exe.config
+c:\users\rawr\documents\visual studio 2017\Projects\RandomNamePicker\RandomNamePicker\bin\Debug\RandomNamePicker.exe
+c:\users\rawr\documents\visual studio 2017\Projects\RandomNamePicker\RandomNamePicker\bin\Debug\RandomNamePicker.pdb
+c:\users\rawr\documents\visual studio 2017\Projects\RandomNamePicker\RandomNamePicker\obj\Debug\RandomNamePicker.csprojResolveAssemblyReference.cache
+c:\users\rawr\documents\visual studio 2017\Projects\RandomNamePicker\RandomNamePicker\obj\Debug\MainWindow.g.cs
+c:\users\rawr\documents\visual studio 2017\Projects\RandomNamePicker\RandomNamePicker\obj\Debug\App.g.cs
+c:\users\rawr\documents\visual studio 2017\Projects\RandomNamePicker\RandomNamePicker\obj\Debug\RandomNamePicker_MarkupCompile.cache
+c:\users\rawr\documents\visual studio 2017\Projects\RandomNamePicker\RandomNamePicker\obj\Debug\RandomNamePicker_MarkupCompile.lref
+c:\users\rawr\documents\visual studio 2017\Projects\RandomNamePicker\RandomNamePicker\obj\Debug\MainWindow.baml
+c:\users\rawr\documents\visual studio 2017\Projects\RandomNamePicker\RandomNamePicker\obj\Debug\RandomNamePicker.g.resources
+c:\users\rawr\documents\visual studio 2017\Projects\RandomNamePicker\RandomNamePicker\obj\Debug\RandomNamePicker.Properties.Resources.resources
+c:\users\rawr\documents\visual studio 2017\Projects\RandomNamePicker\RandomNamePicker\obj\Debug\RandomNamePicker.csproj.GenerateResource.Cache
+c:\users\rawr\documents\visual studio 2017\Projects\RandomNamePicker\RandomNamePicker\obj\Debug\RandomNamePicker.exe
+c:\users\rawr\documents\visual studio 2017\Projects\RandomNamePicker\RandomNamePicker\obj\Debug\RandomNamePicker.pdb
